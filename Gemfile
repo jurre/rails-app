@@ -4,7 +4,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '2.7.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '6.0.1'
+gem 'rails', '6.1.4'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
